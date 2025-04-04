@@ -1,6 +1,6 @@
 {
-  "name": "XCT",
+  "name": "XC Token",
   "symbol": "XCT",
   "description": "Example token from Solana Making a Token guide.",
-  "image": "https://raw.githubusercontent.com/SupermodelCoin/sTest/main/sTest512.png"
+  "image": "https://raw.githubusercontent.com/SupermodelCoin/sTest/main/XCTlogo.png"
 }

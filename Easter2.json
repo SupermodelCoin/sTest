@@ -1,0 +1,11 @@
+{
+  "name": "Easter",
+  "symbol": "Easter",
+  "description": "Metadata test.",
+  "image": "https://raw.githubusercontent.com/SupermodelCoin/sTest/main/Palm.png",
+  "external_url": "https://easter.com",
+  "seller_fee_basis_points": 0,
+  "extensions": {
+    "twitter": "https://x.com/TheFlatEartherr",
+  }
+}
